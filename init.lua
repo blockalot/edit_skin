@@ -22,7 +22,7 @@ edit_skin = {
 	base = {}, -- List of base textures
 	
 	-- Base color is separate to keep the number of junk nodes registered in check
-	base_color = {0xffeeb592, 0xffb47a57, 0xff8d471d},
+	base_color = {0xFFfbe3c8, 0xFFf6d2b1, 0xFFd09c6e, 0xFFd3a581, 0xFFb98664, 0xFFaa854f, 0xFFb57f52, 0xFF9d6444, 0xFF915a3c, 0xFF80513a, 0xFF674231, 0xFF42190b, 0xFF311304, 0xFF190c05, 0xFF775ebb, 0xFF3362d3, 0xFF3dc36c, 0xFFca5bc3},
 	color = {
 		0xff613915, -- 1 Dark brown Steve hair, Alex bottom
 		0xff97491b, -- 2 Medium brown
