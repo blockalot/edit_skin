@@ -31,6 +31,10 @@
 		"texture": "edit_skin_footwear_6.png"
 	},
 	{
+		"type": "footwear",
+		"texture": "edit_skin_footwear_7.png"
+	},
+	{
 		"type": "eye",
 		"texture": "edit_skin_eye_1.png"
 	},
@@ -75,6 +79,10 @@
 	{
 		"type": "eye",
 		"texture": "edit_skin_eye_11.png"
+	},
+	{
+		"type": "eye",
+		"texture": "edit_skin_eye_12.png"
 	},
 	{
 		"type": "mouth",
@@ -261,7 +269,11 @@
 		"texture": "edit_skin_bottom_6.png",
 		"mask": "edit_skin_bottom_6_mask.png"
 	},
-
+		{
+		"type": "bottom",
+		"texture": "edit_skin_bottom_7.png",
+		"mask": "edit_skin_bottom_7_mask.png"
+	},
 	{
 		"type": "top",
 		"texture": "edit_skin_top_1.png",
@@ -369,6 +381,10 @@
 	{
 		"type": "top",
 		"texture": "edit_skin_top_21.png",
+	},
+	{
+		"type": "top",
+		"texture": "edit_skin_top_22.png",
 	},
 	{
 		"type": "base",
