@@ -28,8 +28,7 @@
 	},
 	{
 		"type": "footwear",
-		"texture": "edit_skin_footwear_6.png",
-		"for_player" : "kazhan_officer"
+		"texture": "edit_skin_footwear_6.png"
 	},
 	{
 		"type": "eye",
@@ -75,8 +74,7 @@
 	},
 	{
 		"type": "eye",
-		"texture": "edit_skin_eye_11.png",
-		"for_player" : "kazhan_officer"
+		"texture": "edit_skin_eye_11.png"
 	},
 	{
 		"type": "mouth",
@@ -261,8 +259,7 @@
 	{
 		"type": "bottom",
 		"texture": "edit_skin_bottom_6.png",
-		"mask": "edit_skin_bottom_6_mask.png",
-		"for_player": "kazhan_officer"
+		"mask": "edit_skin_bottom_6_mask.png"
 	},
 
 	{
@@ -372,7 +369,6 @@
 	{
 		"type": "top",
 		"texture": "edit_skin_top_21.png",
-		"for_player": "kazhan_officer"
 	},
 	{
 		"type": "base",
