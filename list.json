@@ -293,6 +293,10 @@
 		"restricted_to_admin": true
 	},
 	{
+		"type": "bottom",
+		"texture": "edit_skin_bottom_9.png"
+	},
+	{
 		"type": "top",
 		"texture": "edit_skin_top_1.png",
 		"mask": "edit_skin_top_1_mask.png"
@@ -410,6 +414,10 @@
 		"type": "top",
 		"texture": "edit_skin_top_23.png",
 		"restricted_to_admin": true
+	},
+	{
+		"type": "top",
+		"texture": "edit_skin_top_24.png"
 	},
 	{
 		"type": "base",
