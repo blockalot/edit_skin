@@ -97,6 +97,26 @@
 		"restricted_to_admin": true
 	},
 	{
+		"type": "eye",
+		"texture": "edit_skin_eye_14.png"
+	},
+	{
+		"type": "eye",
+		"texture": "edit_skin_eye_15.png"
+	},
+	{
+		"type": "eye",
+		"texture": "edit_skin_eye_16.png"
+	},
+	{
+		"type": "eye",
+		"texture": "edit_skin_eye_17.png"
+	},
+	{
+		"type": "eye",
+		"texture": "edit_skin_eye_18.png"
+	},
+	{
 		"type": "mouth",
 		"texture": "edit_skin_mouth_1.png",
 		"steve": true
@@ -423,6 +443,13 @@
 		"type": "base",
 		"texture": "edit_skin_base_1.png",
 		"mask": "edit_skin_base_1_mask.png",
+		"steve": true,
+		"alex": true
+	},
+	{
+		"type": "base",
+		"texture": "edit_skin_base_2.png",
+		"mask": "edit_skin_base_2_mask.png",
 		"steve": true,
 		"alex": true
 	}
